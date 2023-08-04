@@ -16,5 +16,3 @@ const factorial = (value) => {
   return hasil;
 };
 
-// const display = factorial(input.value);
-// console.log(display);
